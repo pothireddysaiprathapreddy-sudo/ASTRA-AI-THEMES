@@ -1,0 +1,14 @@
+{
+  "schema": 2,
+  "type": "astra-animated-themes",
+  "themes": [
+    {
+      "id": "neural-pulse",
+      "name": "Neural Pulse",
+      "category": "animated",
+      "asset": "neural-pulse.webp",
+      "format": "webp",
+      "sha256": "96d18439acf8786cfb0910c92bfead9378985ea88a137fa798f46dedf96294d5"
+    }
+  ]
+}
