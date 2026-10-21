@@ -1,0 +1,25 @@
+{
+  "schema": 1,
+  "themes": [
+    {
+      "id": "neural-dark",
+      "file": "themes/neural-dark.json",
+      "sha256": "7e2a0d2bba6621beef3d6aa4d30fc93d9494e71c4b68a056f546c6cdf3b75353"
+    },
+    {
+      "id": "quantum-violet",
+      "file": "themes/quantum-violet.json",
+      "sha256": "9dcd4e971066ade10866b96c560972848ee4fc1ae2f72859c3cee5c109dade05"
+    },
+    {
+      "id": "royal-gold",
+      "file": "themes/royal-gold.json",
+      "sha256": "e5ea8f577322ce010e7fed439645a3bc418fc719a32314676833dce3ceef3e9a"
+    },
+    {
+      "id": "arctic-light",
+      "file": "themes/arctic-light.json",
+      "sha256": "49198d0dfdcdbdbd189889568197f481ad512206ff2554d68c62afdd33fb742f"
+    }
+  ]
+}
